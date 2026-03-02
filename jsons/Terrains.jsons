@@ -1,0 +1,15 @@
+[
+    {
+		  "name": "Mountain Pass",
+		  "type": "TerrainFeature",
+	    "movementCost": 2,
+		  "defenceBonus": 0.15,
+		  "impassable": false,
+		  "overrideStats": false,
+		  "occursOn": ["Mountain"],
+		  "uniques": [
+			  "Rough terrain",
+        "Has an elevation of [2] for visibility calculations"
+		],
+	},
+]
