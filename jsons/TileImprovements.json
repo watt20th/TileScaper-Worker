@@ -1,0 +1,81 @@
+[
+    {
+		"name": "Dig Canal",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
+        "turnsToBuild": 8,
+        "techRequired": "Dynamite",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Coast] tile",
+            "Cannot be built on [Hill] tiles <hidden from users>",
+			"Can only be built on [Coastal] tiles"
+        ]
+	},
+    {
+		"name": "Reclaim Land",
+		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+        "turnsToBuild": 9,
+        "techRequired": "Civil Service",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Desert] tile",
+            "Cannot be built on [Ocean] tiles <hidden from users>",
+            "Cannot be built on [Coast] tiles <with [0] to [2] neighboring [Land] tiles>"
+        ]
+	},
+    {
+		"name": "Plant Forest",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Tundra"],
+        "turnsToBuild": 8,
+        "techRequired": "Fertilizer",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Forest] tile",
+            "Does not need removal of [Trading post] <hidden from users>"
+        ]
+	},
+    {
+		"name": "Plant Jungle",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Flood plains"],
+        "turnsToBuild": 9,
+        "techRequired": "Biology",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Jungle] tile",
+            "Does not need removal of [Trading post] <hidden from users>"
+        ]
+	},
+    {
+		"name": "Dig Lake",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
+        "turnsToBuild": 8,
+        "techRequired": "Dynamite",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Lakes] tile",
+            "Cannot be built on [Coastal] tiles"
+        ]
+	},
+    {
+		"name": "Desertify",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains"],
+        "turnsToBuild": 4,
+        "techRequired": "Chemistry",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Desert] tile",
+        ]
+	},
+    {
+		"name": "Dig Tunnel",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+        "turnsToBuild": 8,
+        "techRequired": "Dynamite",
+		"uniques": [
+            "Can be built outside your borders",
+			"Turn this tile into a [Mountain Tunnel] tile",
+            "Can only be built on [Mountain] tiles"
+        ]
+	}
+
+]
