@@ -27,7 +27,7 @@
 		"name": "Plant Forest",
 		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Tundra"],
         "turnsToBuild": 8,
-        "techRequired": "Fertilizer",
+        "techRequired": "Biology",
 		"uniques": [
             "Can be built outside your borders",
 			"Turn this tile into a [Forest] tile",
