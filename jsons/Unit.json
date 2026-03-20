@@ -8,7 +8,7 @@
             "Can build [Land] improvements on tiles",
             "Automation is a primary action",
 			"[-25]% tile improvement construction time <after discovering [Steam Power]>",
-			"[+1] Movement <after discovering [RailRoad]>"
+			"Can build [Reclaim Land] improvements on tiles"
 		],
 		"cost": 48
 	},
