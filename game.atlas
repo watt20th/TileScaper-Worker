@@ -32,23 +32,30 @@ ImprovementIcons/Dig Tunnel
   orig: 92, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Plant Forest
+ImprovementIcons/Green Belt
   rotate: false
   xy: 612, 148
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Plant Jungle
+ImprovementIcons/Plant Forest
   rotate: false
   xy: 712, 148
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Reclaim Land
+ImprovementIcons/Plant Jungle
   rotate: false
   xy: 812, 148
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Reclaim Land
+  rotate: false
+  xy: 912, 148
   size: 92, 100
   orig: 92, 100
   offset: 0, 0
@@ -69,7 +76,7 @@ TileSets/FantasyHex/Units/Powderman
   index: -1
 TileSets/FantasyHex/Units/St Stephen Knight
   rotate: false
-  xy: 912, 220
+  xy: 44, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
