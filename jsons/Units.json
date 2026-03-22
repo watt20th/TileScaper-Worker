@@ -1,0 +1,31 @@
+[
+    {
+		"name": "Worker",
+		"unitType": "Civilian",
+        "cost": 48,
+		"movement": 2,
+		"uniques": [
+            "Can build [All] improvements on tiles",
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action",
+			"[-25]% tile improvement construction time <after discovering [Steam Power]>",
+			"Can build [Reclaim Land] improvements on tiles"
+		],
+	},
+    {
+		"name": "Powderman",
+		"unitType": "Civilian",
+        "cost": 48,
+		"movement": 1,
+        "replacementTextForUniques": "Faster at Digging",
+		"uniques": [
+            "Can build [Dig Tunnel] improvements on tiles",
+            "Can build [Dig Canal] improvements on tiles",
+            "Can build [Dig Lake] improvements on tiles",
+			"Can pass through impassable tiles",
+            //"Automation is a primary action",
+			"[-30]% tile improvement construction time"
+		],
+        "requiredTech": "Dynamite"
+	}
+]
