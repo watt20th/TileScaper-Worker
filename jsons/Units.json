@@ -24,7 +24,7 @@
             "Can build [Dig Lake] improvements on tiles",
 			"Can pass through impassable tiles",
             //"Automation is a primary action",
-			"[-30]% tile improvement construction time"
+			"[-30]% construction time for [All] improvements"
 		],
         "requiredTech": "Dynamite"
 	}
