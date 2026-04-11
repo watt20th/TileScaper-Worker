@@ -19,12 +19,10 @@
 		"movement": 1,
         "replacementTextForUniques": "Faster at Digging",
 		"uniques": [
-            "Can build [Dig Tunnel] improvements on tiles",
-            "Can build [Dig Canal] improvements on tiles",
-            "Can build [Dig Lake] improvements on tiles",
 			"Can pass through impassable tiles",
-            //"Automation is a primary action",
-			"[-30]% tile improvement construction time"
+            "Can instantly construct a [Dig Tunnel] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Dig Canal] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Dig Lake] improvement <once> <after which this unit is consumed>"]
 		],
         "requiredTech": "Dynamite"
 	}
