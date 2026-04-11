@@ -20,9 +20,9 @@
         "replacementTextForUniques": "Faster at Digging",
 		"uniques": [
 			"Can pass through impassable tiles",
-            "Can instantly construct a [Dig Tunnel] improvement <once> <after which this unit is consumed>"],
-			"Can instantly construct a [Dig Canal] improvement <once> <after which this unit is consumed>"],
-			"Can instantly construct a [Dig Lake] improvement <once> <after which this unit is consumed>"]
+            "Can instantly construct a [Dig Tunnel] improvement <once> <after which this unit is consumed>",
+			"Can instantly construct a [Dig Canal] improvement <once> <after which this unit is consumed>",
+			"Can instantly construct a [Dig Lake] improvement <once> <after which this unit is consumed>"
 		],
         "requiredTech": "Dynamite"
 	}
