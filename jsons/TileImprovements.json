@@ -1,7 +1,7 @@
 [
     {
 		"name": "Dig Canal",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains","Hill","Forest","Jungle"],
         "turnsToBuild": 8,
         "techRequired": "Dynamite",
 		"uniques": [
@@ -25,13 +25,13 @@
 	},
 	{
 		"name": "Green Belt",
-		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Hill"],
         "turnsToBuild": 9,
         "techRequired": "Fertilizer",
 		"uniques": [
             "Can be built outside your borders",
 			"Turn this tile into a [Grassland] tile",
-            "Does not need removal of [Trading post] <hidden from users>"
+            "Does not need removal of [All] <hidden from users>"
         ]
 	},
     {
@@ -58,7 +58,7 @@
 	},
     {
 		"name": "Dig Lake",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Snow","Flood plains","Forest","Jungle"],
         "turnsToBuild": 8,
         "techRequired": "Dynamite",
 		"uniques": [
