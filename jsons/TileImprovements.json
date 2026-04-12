@@ -1,7 +1,7 @@
 [
     {
 		"name": "Dig Canal",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains","Hill","Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains","Marsh","Hill","Forest","Jungle"],
         "turnsToBuild": 8,
         "techRequired": "Dynamite",
 		"uniques": [
