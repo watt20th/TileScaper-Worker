@@ -19,7 +19,7 @@
             "Can be built outside your borders",
 			"Turn this tile into a [Desert] tile",
             "Cannot be built on [Ocean] tiles <hidden from users>",
-            "Cannot be built on [Coast] tiles <with [0] to [2] neighboring [Land] tiles>"
+            "Cannot be built on [Coast] tiles <with [0] to [1] neighboring [Land] tiles>"
         ]
 	},
 	{
@@ -30,7 +30,8 @@
 		"uniques": [
             "Can be built outside your borders",
 			"Turn this tile into a [Grassland] tile",
-            "Does not need removal of [All] <hidden from users>"
+            "Does not need removal of [All] <hidden from users>",
+			"Cannot be built on [Coast] tiles"
         ]
 	},
     {
